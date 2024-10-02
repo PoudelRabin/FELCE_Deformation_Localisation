@@ -1,0 +1,3 @@
+This folder contains the two folders LCENecking and LCEStriping containing containing the material code for the necking and striping phenomena described in the paper. Each folders contain the c++ file "FELCEMaterial444" which need to be copied, moved to src/FEBioMech replacing the original according the phenomena that need to be simulated.
+
+For the models provided in the Examples Folder, please refer to the README.md in the Examples. It contains what material model to use for which model.
